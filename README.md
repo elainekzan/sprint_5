@@ -24,3 +24,10 @@ O aplicativo permite:
 ## Dataset
 
 O aplicativo utiliza o arquivo `vehicles_us.csv`, contendo dados de anúncios de vendas de veículos.
+
+
+## Aplicativo web
+
+Acesse o aplicativo desenvolvido com Streamlit:
+
+[Análise de anúncios de veículos](https://sprint-5-jeen.onrender.com)
